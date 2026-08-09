@@ -1,5 +1,7 @@
 # Project 06: Bulk Distance Calculator 🐍📍
 
+![Distance Calculator Dashboard Showcase](./Bulk Distance Calculator.jpg)
+
 A Python desktop application developed to automate road-distance and travel-time calculations between multiple origin and destination sites.
 
 ## 📄 Business Problem
