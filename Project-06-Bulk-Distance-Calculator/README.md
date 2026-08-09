@@ -2,8 +2,6 @@
 
 A Python desktop application developed to automate road-distance and travel-time calculations between multiple origin and destination sites.
 
-![Bulk Distance Calculator](../Bulk-Distance-Calculator-Screenshot.png)
-
 ## 📄 Business Problem
 
 In telecom and field operations, planners may need to estimate travel distance between hundreds of sites. Manually checking routes one by one in a map application is slow and difficult to scale.
@@ -110,7 +108,7 @@ Travel Time = 28.61 / 50
 
 The application provides a simple interface showing the selected Excel file, processing progress, success/failure counts, and current batch.
 
-> Screenshot shown above is from the working desktop application.
+**Screenshot:** The working application screenshot is maintained with the portfolio project materials and can be added to this folder when the repository project assets are uploaded.
 
 ## 🤖 AI-Assisted Development
 
