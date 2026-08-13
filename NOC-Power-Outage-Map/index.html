@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NOC Power Outage Map</title>
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <div class="eyebrow">NOC OPERATIONS</div>
+      <h1>Power Outage Impact Map</h1>
+      <p>Scheduled power interruptions • Municipality impact • Site visibility</p>
+    </div>
+    <div class="live-pill"><span></span> Operational View</div>
+  </header>
+
+  <main class="app-shell">
+    <section class="control-panel">
+      <div class="field">
+        <label for="dateFilter">Interruption Date</label>
+        <input id="dateFilter" type="date" />
+      </div>
+      <div class="field">
+        <label for="coopFilter">Cooperative</label>
+        <select id="coopFilter"><option value="ALL">All Cooperatives</option></select>
+      </div>
+      <div class="field">
+        <label for="provinceFilter">Province</label>
+        <select id="provinceFilter"><option value="ALL">All Provinces</option></select>
+      </div>
+      <div class="field search-field">
+        <label for="siteSearch">Find Site / Municipality</label>
+        <input id="siteSearch" type="search" placeholder="e.g. 5232 or Nasipit" />
+      </div>
+      <button id="resetBtn" class="secondary">Reset</button>
+    </section>
+
+    <section class="kpi-grid">
+      <div class="kpi"><span>Sites</span><strong id="kpiSites">0</strong><small>in selected view</small></div>
+      <div class="kpi warning"><span>Affected Sites</span><strong id="kpiAffected">0</strong><small>inside outage municipalities</small></div>
+      <div class="kpi danger"><span>Outage Areas</span><strong id="kpiAreas">0</strong><small>scheduled municipalities</small></div>
+      <div class="kpi"><span>Open Power Alarms</span><strong id="kpiAlarms">0</strong><small>demo alarm correlation</small></div>
+    </section>
+
+    <section class="content-grid">
+      <div class="map-card">
+        <div id="map"></div>
+        <div class="legend">
+          <div><i class="legend-box normal"></i> No scheduled outage</div>
+          <div><i class="legend-box outage"></i> Scheduled interruption</div>
+          <div><i class="site-dot normal-dot"></i> Site</div>
+          <div><i class="site-dot affected-dot"></i> Site in affected area</div>
+        </div>
+      </div>
+
+      <aside class="side-panel">
+        <div class="panel-heading">
+          <div>
+            <div class="eyebrow">SELECTED DATE</div>
+            <h2 id="selectedDateLabel">Loading…</h2>
+          </div>
+          <button id="todayBtn" class="tiny">Today</button>
+        </div>
+
+        <div class="alert-banner" id="statusBanner">Loading boundary and operational data…</div>
+
+        <h3>Power Interruption Schedule</h3>
+        <div id="outageList" class="list"></div>
+
+        <h3>Affected Sites</h3>
+        <div id="siteList" class="list"></div>
+
+        <div class="footer-note">
+          <strong>Next step:</strong> replace the demo CSV records with your actual Site Master and cooperative interruption schedule. The map logic is already designed around municipality matching.
+        </div>
+      </aside>
+    </section>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script src="app.js"></script>
+</body>
+</html>
