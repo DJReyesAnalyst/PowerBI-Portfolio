@@ -1,62 +1,132 @@
-# 👋 Hi, I'm Dennis Reyes
+# Dennis Reyes | Power BI & Business Analytics
 
-**Power BI Reporting Analyst | Data Analytics | Business Intelligence | Python Automation**
+**Power BI & Business Analytics Specialist**  
+**Operations Analytics | KPI Reporting | Business Intelligence**
 
-I specialize in turning operational and business data into practical dashboards, reports, and automation solutions.
+I transform Excel and operational data into structured Power BI dashboards, automated KPI reporting, and actionable business insights that help managers understand performance and make better decisions.
 
-### Core Skills
+With 12+ years of experience across telecommunications, operations, project support, and performance reporting, I bring both technical analytics skills and real-world operational context to every project.
 
-- 📊 Power BI
-- 🛢 SQL Server / PostgreSQL
-- 📈 Data Analytics
-- 📉 Business Intelligence
-- ⚡ Power Query
-- 📐 DAX
-- 📗 Advanced Excel
-- 🐍 Python Automation
-- 🤖 AI-Assisted Application Development
+**Core tools:** Power BI · Excel · Power Query · DAX · SQL
 
 ---
 
-## Featured Projects
+## Featured Work
 
-### 📊 Power BI & Business Intelligence
+### ⭐ 01. Operations Performance Analytics
 
-- [Executive Sales Dashboard](./Project-01-Executive-Sales/README.md)
-- [Customer Analytics Dashboard](./Project-02-Customer-Analytics/README.md)
-- [Telecom Operations Dashboard](./Project-03-Telecom-NOC/README.md)
-- [Inventory Dashboard](./Project-04-Inventory/README.md)
-- [HR Analytics Dashboard](./Project-05-HR/README.md)
+**Power BI · Power Query · DAX · Excel**
 
-### 🐍 Python & Automation
+An operational performance analytics solution focused on KPI visibility, incident analysis, MTTR, uptime, SLA performance, RCA, recurring issues, and project/team performance.
 
-- [Bulk Distance Calculator](./Project-06-Bulk-Distance-Calculator/README.md) — Desktop application that processes Excel site coordinates and calculates road-route distance and estimated travel time using a routing API.
+[View Project →](./Project-03-Telecom-NOC/README.md)
 
 ---
 
-## Skills
+### 02. Executive Business Performance
+
+**Power BI · DAX · Excel**
+
+An executive dashboard designed to analyze revenue, cost, profitability, variance, KPI achievement, trends, and business performance.
+
+[View Project →](./Project-01-Executive-Sales/README.md)
+
+---
+
+### 03. Inventory Analytics
+
+**Power BI · Power Query · Excel**
+
+An inventory and consumption dashboard focused on stock levels, material consumption, inventory value, trends, and project/category performance.
+
+[View Project →](./Project-04-Inventory/README.md)
+
+---
+
+### 04. HR Workforce Analytics
+
+**Power BI · DAX · Excel**
+
+A workforce analytics dashboard covering headcount, hiring, attrition, tenure, departments, positions, and workforce trends.
+
+[View Project →](./Project-05-HR/README.md)
+
+---
+
+## Additional Analytics Work
+
+### Customer Analytics
+
+Customer-focused analysis using Power BI and data modeling to identify customer behavior, trends, and performance patterns.
+
+[View Project →](./Project-02-Customer-Analytics/README.md)
+
+### Operations Automation
+
+A Python-based bulk distance calculator that automates route-distance and travel-time calculations from Excel site data.
+
+[View Project →](./Project-06-Bulk-Distance-Calculator/README.md)
+
+---
+
+## Services
+
+### Power BI Dashboard Development
+
+Executive, operational, and KPI dashboards built around clear business requirements.
+
+### Excel to Power BI Reporting Automation
+
+Transform recurring Excel-based reports into structured, refreshable Power BI reporting workflows.
+
+### Operations & KPI Analytics
+
+MTTR, uptime, SLA, productivity, incident, inventory, and project performance analysis.
+
+### HR & Workforce Analytics
+
+Headcount, attrition, hiring, tenure, workforce trends, and department analysis.
+
+---
+
+## Core Skills
 
 | Category | Skills |
 |---|---|
-| **BI & Analytics** | Power BI, Data Analytics, Business Intelligence, Dashboard Design |
-| **Data** | SQL Server, PostgreSQL, Excel, Data Modeling |
-| **Power BI** | DAX, Power Query, Power BI Service |
-| **Automation** | Python, Excel Automation, API Integration |
-| **Development Approach** | AI-assisted development, prompt engineering, requirements definition, testing and troubleshooting |
+| **Business Intelligence** | Power BI, Dashboard Design, Business Reporting, KPI Development |
+| **Data Preparation** | Power Query, Excel, Data Cleaning, Data Transformation |
+| **Analytics** | DAX, Data Modeling, KPI Analysis, Trend Analysis, Business Insights |
+| **Data** | SQL Server, PostgreSQL |
+| **Supporting Automation** | Python, Excel Automation, API Integration, SharePoint, Power Automate |
 
 ---
 
-## 🐍 Python Automation
+## What I Bring
 
-My Python projects focus on solving practical operational problems. I use AI-assisted development to translate business requirements into working applications, then test, troubleshoot, and refine the solution in VS Code.
+- **Real-world operations experience** — practical understanding of operational KPIs, incidents, performance, and reporting workflows.
+- **Business-focused analytics** — dashboards designed around decisions and business questions, not just visual presentation.
+- **Reporting automation mindset** — focused on reducing repetitive manual reporting and creating structured, refreshable workflows.
+- **Cross-functional perspective** — experience working with operations, project management, procurement, logistics, NOC, and reporting stakeholders.
 
-The **Bulk Distance Calculator** is an example of this approach: instead of manually calculating travel distances between hundreds of sites, the application automates the process from Excel input to Excel output.
+---
 
-> **Note:** I am continuing to develop my Python programming skills. My strength is understanding the business/operational requirement, defining the workflow, using AI effectively to accelerate development, and validating the resulting solution through testing and troubleshooting.
+## About Me
+
+I'm a Power BI and Business Analytics Specialist with 12+ years of experience across telecommunications, operations, project support, and performance reporting.
+
+I combine real-world operations experience with Power BI, Excel, Power Query, DAX, and data analytics to transform raw and fragmented data into clear, management-ready reporting.
+
+My experience includes KPI reporting, MTTR, uptime, SLA performance, incident analysis, inventory, project performance, cost analysis, and workforce analytics.
+
+I focus on more than building dashboards. I aim to understand the business question behind the data, identify meaningful trends and performance gaps, and present insights that help stakeholders make better decisions.
 
 ---
 
 ## Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/djsgreyes/)
-- 📧 dennis.john.sg.reyes@gmail.com
+**LinkedIn:** [linkedin.com/in/djsgreyes](https://www.linkedin.com/in/djsgreyes/)  
+**Email:** dennis.john.sg.reyes@gmail.com
+
+---
+
+*Portfolio focused on practical Power BI, business analytics, KPI reporting, and data-driven decision support.*
