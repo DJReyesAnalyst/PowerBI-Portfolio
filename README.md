@@ -11,26 +11,6 @@ With 12+ years of experience across telecommunications, operations, project supp
 
 ---
 
-## 🚀 Career Learning Roadmap
-
-I am building toward advanced **Data Analyst / Power BI / Microsoft Fabric** roles, with a target skill set covering SQL, DAX, Power Query, data modeling, OneLake, Lakehouse, Warehouse, Direct Lake, KQL, Dataflows Gen2, Pipelines, semantic models, data validation, reporting requirements, and actionable business insights.
-
-### 📌 Fixed Reference
-
-**[Open the 24-Week Data Analytics & Microsoft Fabric Roadmap →](./ROADMAP.md)**
-
-**[Open the Learning Progress Tracker →](./LEARNING-TRACKER.md)**
-
-The roadmap is designed to remain the single reference point when study gets interrupted. Progress is measured by hands-on work and portfolio evidence, not just courses completed.
-
-### 🎓 Certification Targets
-
-1. **Microsoft Certified: Power BI Data Analyst Associate — PL-300**
-2. **Microsoft Certified: Fabric Analytics Engineer Associate — DP-600**
-3. **Microsoft Certified: Fabric Data Engineer Associate — DP-700 (Optional Advanced)**
-
----
-
 ## Featured Work
 
 ### ⭐ 01. Operations Performance Analytics
