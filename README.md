@@ -1,21 +1,37 @@
-# Dennis Reyes | Power BI & Business Analytics
+# Dennis Reyes | Data Analytics & Business Intelligence
 
-**Power BI & Business Analytics Specialist**  
-**Operations Analytics | KPI Reporting | Business Intelligence**
+**Data Analytics & Business Intelligence Specialist**  
+**Operations Analytics | KPI Reporting | Dashboard Development | Business Insights**
 
-I transform Excel and operational data into structured Power BI dashboards, automated KPI reporting, and actionable business insights that help managers understand performance and make better decisions.
+I transform operational and business data into structured dashboards, KPI reporting, analytical models, and actionable insights that help managers understand performance and make better decisions.
 
 With 12+ years of experience across telecommunications, operations, project support, and performance reporting, I bring both technical analytics skills and real-world operational context to every project.
 
-**Core tools:** Power BI · Excel · Power Query · DAX · SQL
+My portfolio now covers multiple analytics and BI platforms, including **Power BI and Looker Studio**, supported by Excel, SQL, PostgreSQL, Python, Power Query, DAX, and reporting automation.
+
+**Core tools:** Power BI · Looker Studio · Excel · SQL · PostgreSQL · Python · Power Query · DAX
 
 ---
 
 ## Featured Work
 
-### ⭐ 01. Operations Performance Analytics
+### ⭐ 01. Enterprise IT Service Management & NOC Operations Dashboard
 
-**Power BI · Power Query · DAX · Excel**
+**Looker Studio · SQL/Data Analysis · Excel/CSV · KPI Reporting · SLA Analysis · NOC Operations**
+
+An interactive enterprise ticket operations dashboard designed around management questions: **What's happening? Where is the workload? Are we meeting our commitments? Who needs attention?**
+
+The four-page dashboard covers Executive Overview, Ticket Operations, SLA & Aging, and Customer / Branch analysis. It includes KPI cards, ticket trends, workload analysis, SLA compliance, aging, root-cause review, customer/branch performance, filters, and executive attention items.
+
+**Live Dashboard:** [View Interactive Looker Studio Dashboard →](https://datastudio.google.com/reporting/5396b9c3-0ae7-40f8-bbde-88f277bfa075)
+
+[View Project →](./Project-07-Enterprise-Ticket-Operations/README.md)
+
+---
+
+### 02. Operations Performance Analytics
+
+**Power BI · Power Query · DAX · Excel · PostgreSQL**
 
 An operational performance analytics solution focused on KPI visibility, incident analysis, MTTR, uptime, SLA performance, RCA, recurring issues, and project/team performance.
 
@@ -23,7 +39,7 @@ An operational performance analytics solution focused on KPI visibility, inciden
 
 ---
 
-### 02. Executive Business Performance
+### 03. Executive Business Performance
 
 **Power BI · DAX · Excel**
 
@@ -33,7 +49,7 @@ An executive dashboard designed to analyze revenue, cost, profitability, varianc
 
 ---
 
-### 03. Inventory Analytics
+### 04. Inventory Analytics
 
 **Power BI · Power Query · Excel**
 
@@ -43,7 +59,7 @@ An inventory and consumption dashboard focused on stock levels, material consump
 
 ---
 
-### 04. HR Workforce Analytics
+### 05. HR Workforce Analytics
 
 **Power BI · DAX · Excel**
 
@@ -69,23 +85,27 @@ A Python-based bulk distance calculator that automates route-distance and travel
 
 ---
 
-## Services
+## Analytics & BI Capabilities
 
-### Power BI Dashboard Development
+### Dashboard Development
 
-Executive, operational, and KPI dashboards built around clear business requirements.
+Executive, operational, KPI, SLA, customer, branch, workforce, inventory, and performance dashboards built around clear business questions.
 
-### Excel to Power BI Reporting Automation
+### Business Intelligence
 
-Transform recurring Excel-based reports into structured, refreshable Power BI reporting workflows.
+Power BI and Looker Studio reporting, interactive filters, KPI frameworks, trend analysis, data visualization, and management-ready reporting.
 
 ### Operations & KPI Analytics
 
-MTTR, uptime, SLA, productivity, incident, inventory, and project performance analysis.
+MTTR, uptime, SLA, productivity, incident, inventory, project performance, aging, RCA, and recurring-issue analysis.
 
-### HR & Workforce Analytics
+### Data Preparation & Modeling
 
-Headcount, attrition, hiring, tenure, workforce trends, and department analysis.
+Excel, Power Query, SQL, PostgreSQL, data cleaning, transformation, structured datasets, and analytical data models.
+
+### Reporting Automation
+
+Python, Excel automation, APIs, SharePoint, and Power Automate for reducing repetitive reporting and data-processing tasks.
 
 ---
 
@@ -93,17 +113,19 @@ Headcount, attrition, hiring, tenure, workforce trends, and department analysis.
 
 | Category | Skills |
 |---|---|
-| **Business Intelligence** | Power BI, Dashboard Design, Business Reporting, KPI Development |
-| **Data Preparation** | Power Query, Excel, Data Cleaning, Data Transformation |
-| **Analytics** | DAX, Data Modeling, KPI Analysis, Trend Analysis, Business Insights |
-| **Data** | SQL Server, PostgreSQL |
-| **Supporting Automation** | Python, Excel Automation, API Integration, SharePoint, Power Automate |
+| **Business Intelligence** | Power BI, Looker Studio, Dashboard Design, Business Reporting, KPI Development |
+| **Data Preparation** | Excel, Power Query, Data Cleaning, Data Transformation |
+| **Analytics** | DAX, SQL, KPI Analysis, Trend Analysis, SLA Analysis, RCA, Business Insights |
+| **Data & Databases** | PostgreSQL, SQL Server, Supabase |
+| **Automation** | Python, Excel Automation, API Integration, SharePoint, Power Automate |
+| **Operations Analytics** | NOC Reporting, MTTR, Uptime, SLA, Incident Management, Performance Reporting |
 
 ---
 
 ## What I Bring
 
 - **Real-world operations experience** — practical understanding of operational KPIs, incidents, performance, and reporting workflows.
+- **Multi-platform BI capability** — experience developing dashboards with Power BI and Looker Studio rather than relying on a single visualization platform.
 - **Business-focused analytics** — dashboards designed around decisions and business questions, not just visual presentation.
 - **Reporting automation mindset** — focused on reducing repetitive manual reporting and creating structured, refreshable workflows.
 - **Cross-functional perspective** — experience working with operations, project management, procurement, logistics, NOC, and reporting stakeholders.
@@ -112,11 +134,11 @@ Headcount, attrition, hiring, tenure, workforce trends, and department analysis.
 
 ## About Me
 
-I'm a Power BI and Business Analytics Specialist with 12+ years of experience across telecommunications, operations, project support, and performance reporting.
+I'm a Data Analytics and Business Intelligence professional with 12+ years of experience across telecommunications, operations, project support, and performance reporting.
 
-I combine real-world operations experience with Power BI, Excel, Power Query, DAX, and data analytics to transform raw and fragmented data into clear, management-ready reporting.
+I combine real-world operations experience with Power BI, Looker Studio, Excel, SQL, Power Query, DAX, Python, and data analytics to transform raw and fragmented data into clear, management-ready reporting.
 
-My experience includes KPI reporting, MTTR, uptime, SLA performance, incident analysis, inventory, project performance, cost analysis, and workforce analytics.
+My experience includes KPI reporting, MTTR, uptime, SLA performance, incident analysis, inventory, project performance, cost analysis, workforce analytics, and operational reporting.
 
 I focus on more than building dashboards. I aim to understand the business question behind the data, identify meaningful trends and performance gaps, and present insights that help stakeholders make better decisions.
 
@@ -129,4 +151,4 @@ I focus on more than building dashboards. I aim to understand the business quest
 
 ---
 
-*Portfolio focused on practical Power BI, business analytics, KPI reporting, and data-driven decision support.*
+*Portfolio focused on practical data analytics, business intelligence, KPI reporting, operations analytics, and data-driven decision support.*
